@@ -1,0 +1,14 @@
+{
+  "authorization_code": "AUTH_ypwo16pb44",
+  "amount": "1000",
+  "email": "santigo@email.com",
+  "metadata": {
+    "custom_fields": [
+      {
+        "display_name": "Loan ID",
+        "variable_name": "Loan ID",
+        "value": "lsetf12345678"
+      }
+    ]
+  }
+}
